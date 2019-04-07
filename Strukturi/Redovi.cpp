@@ -1,7 +1,14 @@
+//Avtor: Nikola Stoimenov
+//Osnovna struktura i funkcii za magacini...
+
 #include <iostream>
 #define MAX 20
 
 using namespace std;
+
+/*Ovaa struktura mozhe da se zameni samo so
+typedef int info;... taa e po dobro optimizirana verzija,
+no vaka beshe vo auditoriski*/
 
 struct element{
   int info;
