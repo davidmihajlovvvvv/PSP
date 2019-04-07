@@ -130,7 +130,7 @@ int main(){
 
 
 
-  while(scanf("%d ", &element)){
+  while(scanf("%d", &element)){
     cout << "Vnesuj element za lista 2: " << endl;
     b.dodajPosleden(element);
   }
