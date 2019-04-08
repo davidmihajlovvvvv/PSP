@@ -1,7 +1,7 @@
 #include <iostream>
 # define MAX 20
 using namespace std;
-
+// Avtor: Kristijan Cvetkov
 struct element{
   int info;
 };
