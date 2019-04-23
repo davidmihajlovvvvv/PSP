@@ -110,7 +110,7 @@ int main(){
 //  A.brisiPrv();
 //  A.brisiPrv();
   A.dodajPozicija(4, 2);
-  A.brisiPozicija(2);
+//  A.brisiPozicija(2);
 
   jazol *dvizi = A.Prv;
   while(dvizi != NULL){
