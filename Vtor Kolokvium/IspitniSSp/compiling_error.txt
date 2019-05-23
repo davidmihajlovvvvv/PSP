@@ -1,0 +1,21 @@
+/home/nstoimenov/Documents/Repositories/PSP/Vtor Kolokvium/IspitniSSp/Vtora.cpp:80:16: error: declaration of ‘operator<’ as non-function
+ bool operator<(odmor *a, odmor *b){
+                ^~~~~
+/home/nstoimenov/Documents/Repositories/PSP/Vtor Kolokvium/IspitniSSp/Vtora.cpp:80:16: error: ‘odmor’ was not declared in this scope
+/home/nstoimenov/Documents/Repositories/PSP/Vtor Kolokvium/IspitniSSp/Vtora.cpp:80:16: note: suggested alternative: ‘Odmor’
+ bool operator<(odmor *a, odmor *b){
+                ^~~~~
+                Odmor
+/home/nstoimenov/Documents/Repositories/PSP/Vtor Kolokvium/IspitniSSp/Vtora.cpp:80:23: error: ‘a’ was not declared in this scope
+ bool operator<(odmor *a, odmor *b){
+                       ^
+/home/nstoimenov/Documents/Repositories/PSP/Vtor Kolokvium/IspitniSSp/Vtora.cpp:80:26: error: ‘odmor’ was not declared in this scope
+ bool operator<(odmor *a, odmor *b){
+                          ^~~~~
+/home/nstoimenov/Documents/Repositories/PSP/Vtor Kolokvium/IspitniSSp/Vtora.cpp:80:26: note: suggested alternative: ‘Odmor’
+ bool operator<(odmor *a, odmor *b){
+                          ^~~~~
+                          Odmor
+/home/nstoimenov/Documents/Repositories/PSP/Vtor Kolokvium/IspitniSSp/Vtora.cpp:80:33: error: ‘b’ was not declared in this scope
+ bool operator<(odmor *a, odmor *b){
+                                 ^
